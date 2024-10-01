@@ -39,7 +39,6 @@ Link da API: [E-Commerce](https://e-commerce-integracao-e-modelagem-de-dados.ver
 
 ## Hospedagem: <br>
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
-
 ## Contato:<br>
 Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
 
